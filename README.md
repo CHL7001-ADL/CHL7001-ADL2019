@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<div class="home" id="home">
+  <h1 class="pageTitle">CHL7001H: Applied Deep Learning:</h1>
+  <p>
+The course will introduce practical and theoretical methodologies for applying deep learning to various applications, including public health sciences, based on techniques employed in real-world contexts. Students will acquire familiarity with the fundamental organizational and technical requirements that need to be considered when putting deep learning applications into practice. The course will cover tensorflow, data preparation, model selection, model evaluation, advanced model architectures, debugging, infrastructure, model deployment, and ML in practical applications. The course will also review machine learning fundamentals and relevant theory. Upon completion, students will be able to develop and deploy systems that leverage machine learning in public health projects.
 
-You can use the [editor on GitHub](https://github.com/CHL7001-ADL/CHL7001-ADL2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  </p>
+  <p>
+    <b>This course requires programming experience in Python as well as some background in linear algebra and probability theory.</b> Some prior experience/course work with machine learning and/or data mining would be an asset.
+</p>
+  <p>
+    CHL7001H will be capped to students who have an appropriate background this semester. 
+    If you are interested in taking the course, please come to our first lecture and fill out the course enrollment form.
+  </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Overview</h2>
+<p>Course Title: Applied Deep Learning<br>
+Instructor: <a href="http://www.dlsph.utoronto.ca/faculty-profile/thurairatnam-ragavan/">Ragavan Thurairatnam</a>, <a href="http://www.dlsph.utoronto.ca/faculty-profile/zhu-jodie/">Jodie Zhu</a><br>
+Guest speakers: Marc Tyndel, Cole Clifford, Danny Luo, Pippin Lee, Hashiam Kadhim etc.<br>
+Dates: June 18 - August 15 (9 weeks) 
+Days: Tuesdays & Thursdays<br>
+Time: 9 – 11 am<br>
+Room: <a href="http://map.utoronto.ca/utsg/building/154">HS100*</a> Exception for June 27 (HS507)<br>
+</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CHL7001-ADL/CHL7001-ADL2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>Grading</h2>
+<p>Course grade will be made up of:
+  <ul>
+    <li><b>20%</b> Participation</li>
+    <li><b>80%</b> <a href=/Project>Course project</a> (an six-page write up of your application of DL approaches to a practical problem)</li>
+</ul>
+</p>
+</div>
