@@ -183,7 +183,8 @@ HEADER STYLING
 
 .header {
     background-color: $background-color;
-    background-image: url('../img/header-purple-tele-shadow-2.png');
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
     background-size: cover;
     background-position: center center;
     color: white;

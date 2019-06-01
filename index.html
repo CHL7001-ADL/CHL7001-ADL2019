@@ -1,27 +1,40 @@
 ---
 layout: default
-title: space2vec
+title: CHL7001-Applied-Deep-Learning
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Project Updates</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
+  <h1 class="pageTitle">CHL7001H: Applied Deep Learning:</h1>
+  <p>
+The course will introduce practical and theoretical methodologies for applying deep learning to various applications, including public health sciences, based on techniques employed in real-world contexts. Students will acquire familiarity with the fundamental organizational and technical requirements that need to be considered when putting deep learning applications into practice. The course will cover tensorflow, data preparation, model selection, model evaluation, advanced model architectures, debugging, infrastructure, model deployment, and ML in practical applications. The course will also review machine learning fundamentals and relevant theory. Upon completion, students will be able to develop and deploy systems that leverage machine learning in public health projects.
+
+  </p>
+  <p>
+    <b>This course requires programming experience in Python as well as some background in linear algebra and probability theory.</b> Some prior experience/course work with machine learning and/or data mining would be an asset.
+</p>
+  <p>
+    CHL7001H will be capped to students who have an appropriate background this semester. 
+    If you are interested in taking the course, please come to our first lecture and fill out the course enrollment form.
+  </p>
+
+
+  <p>
+    <b>Learning Objectives</b>
+<ul>
+<li>understand how to best apply and evaluate machine learning models for research and practical settings.</li>
+<li>build and deploy systems that leverage machine learning to achieve goals.</li>
+<li>set up and maintain an ML development infrastructure to improve efficiency and 
+shorten project timelines.</li>
+    </ul>
+  </p>
+
+<h2>Overview</h2>
+<p>Course Title: Applied Deep Learning<br>
+Instructor: <a href="http://www.dlsph.utoronto.ca/faculty-profile/thurairatnam-ragavan/">Ragavan Thurairatnam</a>, <a href="http://www.dlsph.utoronto.ca/faculty-profile/zhu-jodie/">Jodie Zhu</a><br>
+Guest speakers: Marc Tyndel, Cole Clifford, Danny Luo, Pippin Lee, Hashiam Kadhim etc.<br>
+Dates: June 18 - August 15 (9 weeks) 
+Days: Tuesdays & Thursdays<br>
+Time: 9 – 11 am<br>
+Room: <a href="http://map.utoronto.ca/utsg/building/154">HS100*</a> Exception for June 27 (HS507)<br>
+</p>
 </div>
