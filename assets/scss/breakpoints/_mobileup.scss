@@ -217,10 +217,12 @@ HEADER STYLING
         text-transform: uppercase;
         a {
             text-decoration: none;
-            font-family: 'Rubik';
-            font-weight: 900;
-            font-style: italic;
+            font-family: $sans-serif;
+            font-weight: 700;
+            letter-spacing: 1px;
+            // font-style: italic;
             color: #32003c;
+            text-transform: none;
         }
     }
 }
