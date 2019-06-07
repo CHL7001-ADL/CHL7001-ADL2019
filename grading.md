@@ -7,30 +7,28 @@ title: Grading
     <h2>Grading</h2>
     <p>Course grade will be made up of:
     <ol>
-        <li><b>20%</b> Participation</li>
-        <li><b>80%</b> Course project:</li>
+        <li><b>20% Participation</b></li>
+        <li><b>80% Course project</b></li>
     </ol>
-    <h2>Deadlines</h2> <br>
-        <p>
-            <table>
-                <tr>
-                <th></th>
-                <th>Deadlines</th>
-                </tr>
-                <tr>
-                    <td>Project proposals (one per group)</td>
-                    <td>July 11 at 11:59 pm</td> 
-                </tr>
-                <tr>
-                    <td>Project presentation </td>
-                    <td>August 13 or August 15 in class</td> 
-                </tr>
-                <tr>
-                    <td>Project report (one per group)</td>
-                    <td>August 15 at 11:59 pm</td> 
-                </tr>
-            </table><br>
-        </p>
+    <h2>Deadlines</h2>
+        <table>
+            <tr>
+            <th></th>
+            <th>Deadlines</th>
+            </tr>
+            <tr>
+                <td>Project proposals (one per group)</td>
+                <td>July 11 at 11:59 pm</td> 
+            </tr>
+            <tr>
+                <td>Project presentation </td>
+                <td>August 13 or August 15 in class</td> 
+            </tr>
+            <tr>
+                <td>Project report (one per group)</td>
+                <td>August 15 at 11:59 pm</td> 
+            </tr>
+        </table><br>
     <ul>
         <li>Groups: will consist of 2-4 students</li>
         <li>Proposal: 15% of the project</li>

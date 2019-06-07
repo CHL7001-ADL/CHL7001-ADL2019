@@ -5,7 +5,7 @@ title: Schedule
 
 <div class="home" id="home">
     <h2>Schedule</h2>
-    <table style="width:100%">
+    <table style="width:80%">
     <tr>
         <th>Date</th>
         <th>Lecture</th> 
@@ -39,7 +39,7 @@ title: Schedule
         <td>Lecture 4: Neural networks and deep learning</td> 
         <td>July 11, 2019</td>
         <td>Workshop 3: Tensorflow</td>
-        <td></td>
+        <td>Project proposal due</td>
     </tr>
     <tr>
         <td>July 16, 2019 </td>
@@ -74,7 +74,7 @@ title: Schedule
         <td>Course presentations</td> 
         <td>August 15, 2019</td>
         <td>Course presentations</td>
-        <td></td>
+        <td>Project report due</td>
     </tr>
     </table>
 </div>
