@@ -5,7 +5,7 @@ title: Schedule
 
 <div class="home" id="home">
     <h2>Schedule</h2>
-    <table style="width:80%">
+    <table style="width:100%">
     <tr>
         <th>Date</th>
         <th>Lecture</th> 
