@@ -40,6 +40,7 @@ title: Grading
     
 
     <h3>Deadlines</h3>
+    <ul>
         <table>
             <tr>
             <th></th>
@@ -58,7 +59,8 @@ title: Grading
                 <td>August 15 at 11:59 pm</td> 
             </tr>
         </table>
-        <br>
+    </ul>
+        
 
 
     
