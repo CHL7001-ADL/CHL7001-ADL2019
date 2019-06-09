@@ -51,7 +51,7 @@ title: Schedule
     </tr>
     <tr>
         <td>July 23, 2019 </td>
-        <td>The Cloud and why it is Important</td> 
+        <td>The Cloud and why it is important</td> 
         <td>July 25, 2019</td>
         <td>How to use the Cloud effectively</td>
         <td></td>
