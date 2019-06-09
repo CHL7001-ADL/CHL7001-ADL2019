@@ -5,7 +5,7 @@ title: Grading
 
 <div class="post">
     <h2>Grading</h2>
-    <p>Course grade will be made up of: 100% Course project</p>
+    <p>Course grade will be made up of: 100% course project</p>
  
     <h2>Project</h2>
     <ul>
@@ -27,22 +27,17 @@ title: Grading
     <p>We will provide feedback and grade based on your proposal before the final drop date, as well as run a scoping meeting with each group.</p>
     
     <h3>Presentation</h3>
-    <p>25% of the project</p>
-    <br>
-    <ul>
-        <li>20 minutes in class on either August 13 or August 15. Be prepared for questions after. Sign up TBD for your timeslot.</li>
-    </ul> 
-    <br>
+    <p>25% of the project.</p>
+    <p>20 minutes in class on either August 13 or August 15. Be prepared for questions after. Sign up TBD for your timeslot.</p>
     
     <h3>Report</h3>
-    <p>60% of the project</p>
+    <p>60% of the project. Due August 15 at 11:59 pm. Please submit to course director the following:</p>
     <ul>
-        <li>Due August 22 at 11:59 pm. Please submit to course director the following:
         <li>6 pages (not including references)</li>
         <li>Github repository</li>
         <li>Blog posts (optional, but strongly recommended!)</li>
     </ul>
-    <br>
+    
 
     <h3>Deadlines</h3>
         <table>
