@@ -5,7 +5,8 @@ title: Schedule
 
 <div class="home" id="home">
     <h2>Schedule</h2>
-    <table style="width:75%">
+    <ul>
+    <table>
     <tr>
         <th>Date</th>
         <th>Lecture</th> 
@@ -15,7 +16,7 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Lecture 1: Introduction</a> </td> 
+        <td>Lecture 1: Introduction</td> 
         <td>June 20, 2019</td>
         <td>Workshop 1: Software installation and environment configuration</td>
         <td></td>
@@ -77,4 +78,5 @@ title: Schedule
         <td>Project report due</td>
     </tr>
     </table>
+</ul>
 </div>
