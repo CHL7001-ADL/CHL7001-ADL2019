@@ -5,7 +5,7 @@ title: Schedule
 
 <div class="home" id="home">
     <h2>Schedule</h2>
-    <table style="width:100%">
+    <table style="width:75%">
     <tr>
         <th>Date</th>
         <th>Lecture</th> 
@@ -15,7 +15,7 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td><a href="google.com"> Lecture 1: Introduction</a> </td> 
+        <td>Lecture 1: Introduction</a> </td> 
         <td>June 20, 2019</td>
         <td>Workshop 1: Software installation and environment configuration</td>
         <td></td>
@@ -36,14 +36,14 @@ title: Schedule
     </tr>
     <tr>
         <td>July 9, 2019 </td>
-        <td>Lecture 4: Neural networks and deep learning</td> 
+        <td>Lecture 4: Neural networks and tensorflow</td> 
         <td>July 11, 2019</td>
         <td>Workshop 3: Tensorflow</td>
         <td>Project proposal due</td>
     </tr>
     <tr>
         <td>July 16, 2019 </td>
-        <td>Lecture 5: Datasets and data preprocessing</td> 
+        <td>Lecture 5: Data preprocessing</td> 
         <td>July 18, 2019</td>
         <td>Workshop 4: Data preprocessing with Python</td>
         <td></td>
@@ -59,21 +59,21 @@ title: Schedule
         <td>July 30, 2019 </td>
         <td>Lecture 7: Properly packaging and Serving Models</td> 
         <td>August 1, 2019</td>
-        <td>Workshop 6: How to use docker and monitor your model</td>
+        <td>Workshop 6: Experiment management </td>
         <td></td>
     </tr>
     <tr>
         <td>August 6, 2019 </td>
         <td>Lecture 8: Distributed systems for distributed models</td> 
         <td>August 8, 2019</td>
-        <td>Workshop 7: Experiment management</td>
+        <td>Workshop 7: How to use docker and monitor your model</td>
         <td></td>
     </tr>
     <tr>
         <td>August 13, 2019 </td>
-        <td>Course presentations</td> 
+        <td>Project presentations</td> 
         <td>August 15, 2019</td>
-        <td>Course presentations</td>
+        <td>Project presentations</td>
         <td>Project report due</td>
     </tr>
     </table>
