@@ -15,7 +15,7 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Lecture 1: Introduction</td> 
+        <td><a href="google.com"> Lecture 1: Introduction</a> </td> 
         <td>June 20, 2019</td>
         <td>Workshop 1: Software installation and environment configuration</td>
         <td></td>
