@@ -14,7 +14,7 @@ title: Grading
     </ul>
         
     <h3>Proposal</h3>
-    <p>15% of the project.</p>
+    <p>15% of the project. Due July 9 at 11:59 pm</p>
     <p>The proposal should be at most 3 pages, one per group. Clearly state the following:</p>
     <ul>
         <li>The problem you wish to tackle </li> 

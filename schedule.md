@@ -40,7 +40,7 @@ title: Schedule
         <td>Neural networks and tensorflow</td> 
         <td>July 11, 2019</td>
         <td>Tensorflow</td>
-        <td>Project proposal due</td>
+        <td>Project proposal due @ July 9, 11:59 pm</td>
     </tr>
     <tr>
         <td>July 16, 2019 </td>
@@ -75,7 +75,7 @@ title: Schedule
         <td>Project presentations</td> 
         <td>August 15, 2019</td>
         <td>Project presentations</td>
-        <td>Project report due</td>
+        <td>Project report due @ August 15, 11:59 pm</td>
     </tr>
     </table>
 </ul>
