@@ -16,7 +16,7 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/lectures/Lecture1_intro_part1.pdf">Slides</a></td> 
+        <td>Introduction <a target="_blank" href="https://github.com/CHL7001-ADL/CHL7001-Applied-Deep-Learning/blob/gh-pages/lectures/Lecture1_intro_part1.pdf">Slides</a></td> 
         <td>June 20, 2019</td>
         <td>Software installation and environment configuration</td>
         <td></td>
