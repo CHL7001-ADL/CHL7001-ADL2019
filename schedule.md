@@ -16,7 +16,7 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Introduction [Slides](/lectures/Lecture1_intro_part1.pdf)</td> 
+        <td>Introduction <a target="_blank" href="/lectures/Lecture1_intro_part1.pdf">Slides</a></td> 
         <td>June 20, 2019</td>
         <td>Software installation and environment configuration</td>
         <td></td>
