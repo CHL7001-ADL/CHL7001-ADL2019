@@ -16,14 +16,14 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">Slides1</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">project workflow</a></td> 
+        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">Slides_part1</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">Slides_part2</a></td> 
         <td>June 20, 2019</td>
-        <td>Software installation and environment configuration</td>
+        <td>Software installation and environment configuration<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/week1_python_setup.pdf">Slides</a></td>
         <td></td>
     </tr>
     <tr>
         <td>June 25, 2019 </td>
-        <td>ML fundamentals, concepts & classical models I</td> 
+        <td>ML fundamentals, concepts & classical models I<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_2.pdf">Slides</a></td> 
         <td>June 27, 2019</td>
         <td>Guest talk</td>
         <td></td>
