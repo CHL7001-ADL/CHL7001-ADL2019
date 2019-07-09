@@ -16,28 +16,28 @@ title: Schedule
     </tr>
     <tr>
         <td>June 18, 2019 </td>
-        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">Slides_part1</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">Slides_part2</a></td> 
+        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">  [Slides_part1]</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">  [Slides_part2]</a></td> 
         <td>June 20, 2019</td>
         <td>Software installation and environment configuration<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/week1_python_setup.pdf">Slides</a></td>
         <td></td>
     </tr>
     <tr>
         <td>June 25, 2019 </td>
-        <td>ML fundamentals, concepts & classical models I<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_2.pdf">Slides</a></td> 
+        <td>ML fundamentals, concepts & classical models I<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_2.pdf">  [Slides]</a></td> 
         <td>June 27, 2019</td>
         <td>Guest talk</td>
         <td></td>
     </tr>
     <tr>
         <td>July 2, 2019 </td>
-        <td>ML fundamentals, concepts & classical models II</td> 
+        <td>Neural networks <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_3.pdf"> [Slides]</a></td> 
         <td>July 4, 2019</td>
         <td>ML code workthough</td>
         <td></td>
     </tr>
     <tr>
         <td>July 9, 2019 </td>
-        <td>Neural networks and tensorflow</td> 
+        <td>Deep Learning and tensorflow <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_4.pdf"> [Slides]</a></td> 
         <td>July 11, 2019</td>
         <td>Tensorflow</td>
         <td>Project proposal due @ July 9, 11:59 pm</td>
