@@ -18,7 +18,7 @@ title: Schedule
         <td>June 18, 2019 </td>
         <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">  [Slides_part1]</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">  [Slides_part2]</a></td> 
         <td>June 20, 2019</td>
-        <td>Software installation and environment configuration<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/week1_python_setup.pdf">Slides</a></td>
+        <td>Software installation and environment configuration<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/week1_python_setup.pdf"> [Slides]</a></td>
         <td></td>
     </tr>
     <tr>
