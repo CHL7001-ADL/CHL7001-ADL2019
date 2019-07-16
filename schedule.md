@@ -44,7 +44,7 @@ title: Schedule
     </tr>
     <tr>
         <td>July 16, 2019 </td>
-        <td>Data preprocessing</td> 
+        <td>Data preprocessing <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_5.pdf"> [Slides]</a></td> 
         <td>July 18, 2019</td>
         <td>Data preprocessing with Python</td>
         <td></td>
