@@ -51,7 +51,7 @@ title: Schedule
     </tr>
     <tr>
         <td>July 23, 2019 </td>
-        <td>The Cloud and why it is important</td> 
+        <td>The Cloud and why it is important <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_6.pdf"> [Slides]</a></td> 
         <td>July 25, 2019</td>
         <td>How to use the Cloud effectively</td>
         <td></td>
