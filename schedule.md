@@ -65,7 +65,7 @@ title: Schedule
     </tr>
     <tr>
         <td>August 6, 2019 </td>
-        <td>Distributed systems for distributed models</td> 
+        <td>Distributed systems for distributed models <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_7.pdf"> [Slides]</a></td> 
         <td>August 8, 2019</td>
         <td>How to use docker and monitor your model</td>
         <td></td>
