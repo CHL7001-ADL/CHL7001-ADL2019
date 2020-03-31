@@ -15,67 +15,96 @@ title: Schedule
         <th>Deadlines</th>
     </tr>
     <tr>
-        <td>June 18, 2019 </td>
-        <td>Introduction <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_introduction.pdf">  [Slides_part1]</a>, <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_1_ml_workflow.pdf">  [Slides_part2]</a></td> 
-        <td>June 20, 2019</td>
-        <td>Software installation and environment configuration<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/week1_python_setup.pdf"> [Slides]</a></td>
+        <td>May 5, 2020 </td>
+        <td>Introduction </td> 
+        <td>May 7, 2020</td>
+        <td>Software installation and environment configuration</td>
         <td></td>
     </tr>
     <tr>
-        <td>June 25, 2019 </td>
-        <td>ML fundamentals, concepts & classical models I<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_2.pdf">  [Slides]</a></td> 
-        <td>June 27, 2019</td>
-        <td>Guest talk</td>
+        <td>May 12, 2020 </td>
+        <td>ML fundamentals, concepts & classical models I</td> 
+        <td>May 14, 2020</td>
+        <td>Introduction to Numpy and implementing a simple model</td>
         <td></td>
     </tr>
     <tr>
-        <td>July 2, 2019 </td>
-        <td>Neural networks <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_3.pdf"> [Slides]</a></td> 
-        <td>July 4, 2019</td>
-        <td>ML code workthough</td>
+        <td>May 19, 2020 </td>
+        <td>Neural networks </td> 
+        <td>May 21, 2020</td>
+        <td>Introduction to TensorFlow</td>
         <td></td>
     </tr>
     <tr>
-        <td>July 9, 2019 </td>
-        <td>Deep Learning and tensorflow <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_4.pdf"> [Slides]</a></td> 
-        <td>July 11, 2019</td>
-        <td>Tensorflow</td>
-        <td>Project proposal due @ July 9, 11:59 pm</td>
+        <td>May 26, 2020 </td>
+        <td>Neural networks and deep learning </td> 
+        <td>May 28, 2020</td>
+        <td>Neural networks in TF</td>
+        <td>Project proposal due @ May 28, 11:59 pm</td>
     </tr>
     <tr>
-        <td>July 16, 2019 </td>
-        <td>Data preprocessing <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_5.pdf"> [Slides]</a></td> 
-        <td>July 18, 2019</td>
-        <td>Data preprocessing with Python</td>
+        <td>June 2, 2020 </td>
+        <td>Data preprocessing and categorical features</td> 
+        <td>June 4, 2020</td>
+        <td>Data preprocessing implementations</td>
         <td></td>
     </tr>
     <tr>
-        <td>July 23, 2019 </td>
-        <td>The Cloud and why it is important <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_6.pdf"> [Slides]</a></td> 
-        <td>July 25, 2019</td>
-        <td>How to use the Cloud effectively</td>
+        <td>June 9, 2020 </td>
+        <td>Structural data - time series forecasting</td> 
+        <td>June 11, 2020</td>
+        <td>Time series in TensorFlow</td>
         <td></td>
     </tr>
     <tr>
-        <td>July 30, 2019 </td>
-        <td>Properly packaging and Serving Models <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_7.pdf"> [Slides]</a></td> 
-        <td>August 1, 2019</td>
-        <td>Experiment management </td>
+        <td>June 16, 2020 </td>
+        <td>Computer vision and CNNs-1</td> 
+        <td>June 18, 2020 </td>
+        <td>CNNs in TensorFlow -1</td>
         <td></td>
     </tr>
     <tr>
-        <td>August 6, 2019 </td>
-        <td>Distributed systems for distributed models <a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/lecture_8.pdf"> [Slides]</a></td> 
-        <td>August 8, 2019</td>
-        <td>How to use docker to pack your project<a target="_blank" href="https://chl7001-adl.github.io/CHL7001-Applied-Deep-Learning/lectures/workshop_8.pdf"> [Slides]</a></td>
+        <td>June 23, 2020 </td>
+        <td>Computer vision and CNNs-2</td> 
+        <td>June 25, 2020</td>
+        <td>CNNs in TensorFlow-2</td>
         <td></td>
     </tr>
     <tr>
-        <td>August 13, 2019 </td>
-        <td>Project presentations</td> 
-        <td>August 15, 2019</td>
-        <td>Project presentations</td>
-        <td>Project report due @ August 15, 11:59 pm</td>
+        <td>June 30, 2020 </td>
+        <td>Text with neural nets</td> 
+        <td>July 2, 2020</td>
+        <td>Text in TensorFlow</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>July 7, 2020 </td>
+        <td>The Cloud and Why it is Important</td> 
+        <td>July 9, 2020</td>
+        <td>How to use the cloud effectively</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>July 14, 2020 </td>
+        <td>Properly Packaging Serving Models, and experiment managements</td> 
+        <td>July 16, 2020</td>
+        <td>Docker</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>July 21, 2020 </td>
+        <td>[Flexible topics - project issues]</td> 
+        <td>July 23, 2020</td>
+        <td>[Flexible topics - project issues]</td>
+        <td></td>
+    </tr>
+        </tr>
+        <tr>
+        <td>July 28, 2020 </td>
+        <td>Final presentation</td> 
+        <td>July 30, 2020</td>
+        <td>Final presentation</td>
+        <td>Project report due @ Aug 7, 11:59 pm</td>
     </tr>
     </table>
 </ul>

@@ -9,12 +9,12 @@ title: Grading
  
     <h2>Project</h2>
     <ul>
-        <li>Group size: will consist of 2-4 students</li>
+        <li>Group size: will consist of 1-3 students</li>
         <li>15% from project proposal, 25% from presentation, 60% from final report</li>
     </ul>
         
     <h3>Proposal</h3>
-    <p>15% of the project. Due July 9 at 11:59 pm</p>
+    <p>15% of the project. Due May 28 at 11:59 pm</p>
     <p>The proposal should be at most 3 pages, one per group. Clearly state the following:</p>
     <ul>
         <li>The problem you wish to tackle </li> 
@@ -28,10 +28,10 @@ title: Grading
     
     <h3>Presentation</h3>
     <p>25% of the project.</p>
-    <p>20 minutes in class on either August 13 or August 15. Be prepared for questions after. Sign up TBD for your timeslot.</p>
+    <p>20 minutes in class on either July 28 or July 30. Be prepared for questions after. Sign up TBD for your timeslot.</p>
     
     <h3>Report</h3>
-    <p>60% of the project. Due August 15 at 11:59 pm. Please submit to course director the following:</p>
+    <p>60% of the project. Due August 7 at 11:59 pm. Please submit to course director the following:</p>
     <ul>
         <li>6 pages (not including references)</li>
         <li>Github repository</li>
@@ -48,15 +48,15 @@ title: Grading
             </tr>
             <tr>
                 <td>Project proposals (one per group)</td>
-                <td>July 11 at 11:59 pm</td> 
+                <td>May 28 at 11:59 pm</td> 
             </tr>
             <tr>
                 <td>Project presentation </td>
-                <td>August 13 or August 15 in class</td> 
+                <td>July 28 or July 30 in class</td> 
             </tr>
             <tr>
                 <td>Project report (one per group)</td>
-                <td>August 15 at 11:59 pm</td> 
+                <td>August 7 at 11:59 pm</td> 
             </tr>
         </table>
     </ul>
