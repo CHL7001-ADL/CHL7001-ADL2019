@@ -39,7 +39,7 @@ title: Schedule
         <td>May 26, 2020 </td>
         <td>Neural networks and deep learning </td> 
         <td>May 28, 2020</td>
-        <td>Neural networks in TF</td>
+        <td>Neural networks in TensorFlow</td>
         <td>Project proposal due @ May 28, 11:59 pm</td>
     </tr>
     <tr>
