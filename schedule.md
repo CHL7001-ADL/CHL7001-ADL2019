@@ -51,23 +51,23 @@ title: Schedule
     </tr>
     <tr>
         <td>June 9, 2020 </td>
-        <td>Structural data - time series forecasting</td> 
-        <td>June 11, 2020</td>
-        <td>Time series in TensorFlow</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>June 16, 2020 </td>
         <td>Computer vision and CNNs-1</td> 
-        <td>June 18, 2020 </td>
+        <td>June 11, 2020 </td>
         <td>CNNs in TensorFlow -1</td>
         <td></td>
     </tr>
     <tr>
-        <td>June 23, 2020 </td>
+        <td>June 16, 2020 </td>
         <td>Computer vision and CNNs-2</td> 
-        <td>June 25, 2020</td>
+        <td>June 18, 2020</td>
         <td>CNNs in TensorFlow-2</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>June 23, 2020 </td>
+        <td>Structural data - time series forecasting</td> 
+        <td>June 25, 2020</td>
+        <td>Time series in TensorFlow</td>
         <td></td>
     </tr>
     <tr>
@@ -98,7 +98,6 @@ title: Schedule
         <td>[Flexible topics - project issues]</td>
         <td></td>
     </tr>
-        </tr>
         <tr>
         <td>July 28, 2020 </td>
         <td>Final presentation</td> 
