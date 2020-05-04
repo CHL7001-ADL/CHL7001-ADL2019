@@ -9,7 +9,7 @@ title: Grading
  
     <h2>Project</h2>
     <ul>
-        <li>Group size: will consist of 1-2 students</li>
+        <li>Group size: will consist of 1-4 students</li>
         <li>15% from project proposal, 25% from presentation, 60% from final report</li>
     </ul>
         
